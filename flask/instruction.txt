@@ -1,0 +1,6 @@
+print("flask work instructions")
+
+for run venv go to the folder bin y despues source activate 
+y para descactivarlo lo contrario 
+
+for run flask solo ejecutamos el python 3 app.py 
